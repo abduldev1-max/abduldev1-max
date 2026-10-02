@@ -1,30 +1,57 @@
-Abdul Mujahid
-=============
+# Hi, I'm Abdul Mujahid 👋
 
-Software Engineering student at Metropolitan State University of Denver based in Aurora, Colorado. I enjoy building full-stack web applications and AI-powered projects, and I am currently looking for software engineering internships and entry-level opportunities.
+## About Me
 
-## Links
+I'm a Software Engineering student at Metropolitan State University of Denver based in Aurora, Colorado.
 
-- Portfolio: [abdul-dev-mujahid.netlify.app](https://abdul-dev-mujahid.netlify.app/)
-- GitHub: [github.com/abduldev1-max](https://github.com/abduldev1-max)
-- LinkedIn: Add your LinkedIn profile link here
+I enjoy building full-stack web applications, AI-powered tools, and backend systems. I like working with Python, Flask, PostgreSQL, JavaScript, APIs, and cloud deployment.
+
+- 🎓 Software Engineering student at MSU Denver
+- 💻 Building full-stack and AI-powered projects
+- 🌱 Currently improving my skills in backend development, databases, APIs, and AI application development
+- 🔎 Looking for software engineering internships and entry-level opportunities
+- 🤖 I use tools like Claude Code and GitHub Copilot to help with debugging, code review, and development
+- 📍 Aurora, Colorado
 
 ## Tech Stack
 
-Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, HTML, CSS, C++, Git, GitHub, REST APIs, Google OAuth 2.0, Generative AI, Render, Claude Code, GitHub Copilot
+**Languages:**  
+Python, JavaScript, C++, HTML, CSS
+
+**Backend & Databases:**  
+Flask, PostgreSQL, SQLAlchemy, REST APIs
+
+**Tools & Platforms:**  
+Git, GitHub, Render, Netlify, Google OAuth 2.0, Claude Code, GitHub Copilot
+
+**AI:**  
+Google Gemini, Groq/Grok, Generative AI APIs
 
 ## Featured Project
 
-**AI Resume Builder** — a full-stack AI-powered web application that helps users create, improve, and optimize professional resumes. The app can generate resume content, improve work experience bullet points, create professional summaries, compare resumes with job descriptions for ATS optimization, save resume versions, and export resumes as PDFs.
+### AI Resume Builder
 
-Built with Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, HTML, CSS, Google OAuth 2.0, Groq/Grok, and Google Gemini. Deployed on Render.
+A full-stack AI-powered web application that helps users create, improve, and optimize professional resumes.
 
-[Live Demo](https://ai-resume-builder-3l2a.onrender.com/) | [GitHub](https://github.com/abduldev1-max/ai-resume-builder)
+The application can:
+- Generate resume content with AI
+- Improve work experience bullet points
+- Create professional summaries
+- Compare resumes with job descriptions for ATS optimization
+- Save different resume versions
+- Export resumes as PDFs
+- Support Google sign-in and email/password authentication
 
-## Currently Learning
+Built with Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, HTML, CSS, Google OAuth 2.0, Groq/Grok, and Google Gemini.
 
-I am continuing to improve my skills in software engineering, backend development, databases, APIs, cloud deployment, and AI application development.
+[Live Demo](https://ai-resume-builder-3l2a.onrender.com/) | [GitHub Repository](https://github.com/abduldev1-max/ai-resume-builder)
+
+## Links
+
+- 🌐 [Portfolio](https://abdul-dev-mujahid.netlify.app/)
+- 💻 [GitHub](https://github.com/abduldev1-max)
+- 🔗 LinkedIn: Add your LinkedIn profile link here
 
 ## Open to Opportunities
 
-I am looking for software engineering internships and entry-level opportunities in Colorado or remote where I can continue learning, contribute to real projects, and grow as a developer.
+I'm currently looking for software engineering internships and entry-level opportunities where I can continue learning, contribute to real projects, and grow as a developer.
